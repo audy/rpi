@@ -1,0 +1,5 @@
+casa.austinfanclub.com {
+  tls harekrishna@gmail.com
+  log /dev/stdout
+  markdown /
+}
